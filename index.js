@@ -5,5 +5,9 @@ if (a) {
   console.log("error occured");
 }
 
-const fistname = "ramses"
-console.log(firstname.length)
+const fistname = "ramses";
+console.log(firstname.length);
+
+console.log(
+  "everything is going well we can stop here and do the second exercice"
+);
