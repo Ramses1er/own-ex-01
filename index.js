@@ -4,3 +4,6 @@ if (a) {
 } else {
   console.log("error occured");
 }
+
+const fistname = "ramses"
+console.log(firstname.length)
